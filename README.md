@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 &nbsp;I'm Swapnil Wani
 
 <!--
 **swapnilwani3/swapnilwani3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 👨 All about me:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
