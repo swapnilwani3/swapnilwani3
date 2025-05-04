@@ -1,10 +1,45 @@
-### Hello World 👋 &nbsp;I am Swapnil Wani
+# 👋 Glad to See You Here!
+
+I'm a **Full-Stack Developer** passionate about building user-centric products that solve real-world problems.
+
+### 🚀 Tech Stack
+- **Frontend:** JavaScript, TypeScript, ReactJS, AngularJS
+- **Backend:** SpringBoot (Java), Django (Python)
+- **Cloud & DevOps:** AWS
+- **APIs:** RESTful API design & implementation
+
+### 💡 What I Do
+- Develop full-stack applications with clean architecture and scalable design
+- Build and deploy robust backend systems
+- Create responsive and intuitive frontend interfaces
+- Participate in [Leetcode](https://leetcode.com/u/swapnilwani/) competitions to polish my DSA skills
+
+### 📫 Get in Touch
+If you'd like to collaborate or discuss a project, feel free to reach out to me via email: [**mailMe**](mailto:waniswapnil3@gmail.com)
+---
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/swapnilwani3) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/swapnilwani3)
 <br> <br>
 
 ##  My Github Status 👩🏻‍💻
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilwani3" />
+<details>
+  <summary>⚡ GitHub Stats</summary>
+  <br/>
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilwani3&show_icons=true&theme=radical)
+
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilwani3&layout=compact&theme=radical)
+
+</details>
+
+<details>
+
+<summary>⚡ GitHub Streak</summary>
+  <br/>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwani3&theme=radical)
+</details>
+
+   
 
 ## My skills 🚀
 
@@ -17,20 +52,12 @@
 
 
 ## :dart: Find me Interesting? 
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/swapnil-wani-14797216b/)** :heart: 
-
 
 #### Any Project you want me a part of ?
 
- - 👀 Ping me on [Twitter](https://twitter.com/Swapnil39877033)
+ - 👀 Ping me on [X](https://x.com/waniswapnil3), [LinkedIn](https://www.linkedin.com/in/swapnil-wani-14797216b/)
 
- - 💌 [waniswapnil3@gmail.com](mailto:waniswapnil3@gmail.com)
-
-
-
-
-
-
+**Show some ❤️ by starring some of the repositories!** It really helps and keeps me motivated.
 
 <!--
 **swapnilwani3/swapnilwani3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
