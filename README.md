@@ -36,7 +36,7 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 
 <summary>⚡ GitHub Streak</summary>
   <br/>
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwani3&theme=radical)
+  <img src = "https://streak-stats.demolab.com/?user=swapnilwani3&theme=radical" />
 </details>
 
    
